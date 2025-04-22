@@ -1,4 +1,4 @@
-# Github Repo strickyak/binary-to-text
+# bin2hhc & hhc2bin (github.com/strickyak/binary-to-text)
 
 `bin2hhc` converts a binary file into a text file
 for the purpose of diffing binary files with fairly
